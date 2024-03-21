@@ -1,14 +1,19 @@
 <h1 align="center">
-  <strong> Hi 👋, I'm Sabih Shah </strong>
+  <strong> Hey there 👋, Welcome to my Github Profile </strong>
 </h1>
 
-<h4 align="center"><strong> Mechatronics Engineer currently persuing my master's degree in Robotics and AI </strong></h4>
+<h4 align="center"><strong> Mechatronics Engineer currently pursuing my master's degree in Robotics and AI </strong></h4>
 
+<img src="logos/C++.png" width="20%" align="right" />
 <h4>Interested in:</h4>
-- Artificial Intelligence
-- 💻 Computer Vision
-- 🧠 Deep Learning
-- 🤖 Robotic Systems
+<ul>
+<li>  Artificial Intelligence</li>
+<li> 💻 Computer Vision</li>
+<li> 🧠 Deep Learning</li>
+<li> 🤖 Robotic Systems</li>
+<li>  Automation</li>
+</ul>
+
 
 <h4><strong>Languages and Tools:</strong></h4>
 <div style="display: flex; justify-content: center;">
