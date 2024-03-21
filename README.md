@@ -10,11 +10,9 @@
 
 
 <ul>
-<li>🔭 Interested in:
-**Artificial Intelligence ..Computer Vision ..Deep Learning ..Robotic Systems** </li>
-<li>🔧 Currently Working on:
-  **3d Point Cloud ..Depth Cameras ..Self-supervised Learning** </li>
-<li>👨‍💻 All of my projects are available at https://github.com/SabihShah </li>
+<li>🔭 Interested in: **Artificial Intelligence ..Computer Vision ..Deep Learning ..Robotic Systems** </li>
+<li>🔧 Currently Working on: **3d Point Cloud ..Depth Cameras ..Self-supervised Learning** </li>
+<li>👨‍💻 All of my projects are available at https://github.com/SabihShah?tab=repositories </li>
 <li>💬 Ask me about Deep Learning, Computer Vision, C++, Python, Robotics OS</li>
 <li>📫 How to reach me: sabihshah999@gmail.com</li>
 </ul>
