@@ -4,6 +4,12 @@
 
 <h4 align="center"><strong> Mechatronics Engineer currently persuing my master's degree in Robotics and AI </strong></h4>
 
+<h4>Interested in:</h4>
+- Artificial Intelligence
+- 💻 Computer Vision
+- 🧠 Deep Learning
+- 🤖 Robotic Systems
+
 <h4><strong>Languages and Tools:</strong></h4>
 <div style="display: flex; justify-content: center;">
     <img src="logos/C++.png" alt="Language 1 Logo" style="width: 55px; height: 55px;">
