@@ -5,7 +5,7 @@
 <!-- <br> -->
 
 
-<h3 align="center"><strong> Mechatronics Engineer currently pursuing my master's degree in Robotics and AI </strong></h3>
+<h3 align="center"><strong> Computer Vision and AI Engineer </strong></h3>
 
 
 
