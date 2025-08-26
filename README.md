@@ -1,24 +1,35 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Hey+there;I'm+Sabih+Shah;Welcome+to+my+GITHUB+Profile!)](https://git.io/typing-svg)
 
-<!-- <p  align="center"> -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
-<!-- <br> -->
+<!-- <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br> -->
 
 
-<h3 align="center"><strong> Computer Vision and AI Engineer </strong></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_DEVELOPER-CENTAIC@PAF-cyan?style=for-the-badge" alt="python"/>
+</p>
 
+<br>
 
+<h2 align="left">👨‍💻 About Me</h2>
 
 <ul>
-<li> 🔭 Interested in: <strong>Artificial Intelligence ..Computer Vision ..Deep Learning ..Robotic Systems</strong></li>
-<li>🔧 Currently Working on: <strong> 3d Point Cloud ..Depth Cameras ..Scene Reconstruction ..Self-supervised Learning </strong></li>
+<li><strong>🔭 Interested in:</strong> Artificial Intelligence ..Computer Vision ..Deep Learning ..Robotic Systems</li>
+<li><strong>🔧 Currently Working on:</strong>3d Point Cloud ..Depth Cameras ..Scene Reconstruction ..Self-supervised Learning</li>
 <li>👨‍💻 All of my projects are available at https://github.com/SabihShah?tab=repositories </li>
 <li>💬 Ask me about Deep Learning, Computer Vision, C++, Python, Robotics OS</li>
 <li>📫 How to reach me: sabihshah999@gmail.com</li>
 </ul>
 
-### 🛠️ &nbsp;Languages and Tools:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabihShah&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabihShah&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
+<br>
+
+ <h2 align="left"> ⚡ Tech Stack </h2>
+ 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=selenium)&nbsp;
@@ -40,14 +51,27 @@
 ![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros&logoColor=22314E)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-05122A?style=flat&logo=gazebo&logoColor=02E078)
 
+<br>
+
+<h2 align="left"> 📫 Contact Info </h2>
+
+<p align="center">
+  <a href="mailto:sabihshah999@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-sabih-ul-hassan-39264615a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SabihShah">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 
-### :link: &nbsp;Contact Info
-<a href="https://www.linkedin.com/in/muhammad-sabih-ul-hassan-39264615a/"><img src="https://img.shields.io/badge/LinkedIn-SabihShah-blue"/></a>
-<a href="https://github.com/SabihShah"><img src="https://img.shields.io/badge/github-SabihShah-black"/></a>
+<br>
+<br>
 
-
-<!-- <div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
     <img src="logos/C++.png" alt="Language 1 Logo" style="width: 55px; height: 55px;">
     <img src="logos/IoT.png" alt="Language 2 Logo" style="width: 55px; height: 55px;">
     <img src="logos/git.png" alt="Language 3 Logo" style="width: 55px; height: 55px;">
@@ -64,4 +88,7 @@
     <img src="logos/matplotlib.png" alt="Language 3 Logo" style="width: 55px; height: 55px;">
     <img src="logos/mysql.png" alt="Language 3 Logo" style="width: 55px; height: 55px;">
     <img src="logos/gazebo.png" alt="Language 3 Logo" style="width: 55px; height: 55px;">
-</div> -->
+</div>
+
+<br>
+
