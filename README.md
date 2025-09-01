@@ -23,10 +23,16 @@
 
 ### 📊 GitHub Stats
 
-| ![Sabih GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabihShah&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabihShah&layout=compact&theme=tokyonight) |
+<!--
+| ![Sabih's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabihShah&show_icons=true&count_private=true&theme=tokyonight&border_radius=8) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabihShah&layout=compact&theme=tokyonight) |
 |--|--|
+ -->
 
-![Sabih's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabihShah&show_icons=true&count_private=true)
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SabihShah&theme=tokyonight&border_radius=8) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabihShah&layout=compact&theme=tokyonight) |
+|--|--|
+ 
+
+
 
 
 <br>
