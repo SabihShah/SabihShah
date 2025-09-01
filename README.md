@@ -21,12 +21,11 @@
 <li>📫 How to reach me: sabihshah999@gmail.com</li>
 </ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabihShah&show_icons=true&theme=tokyonight" height="160"/>
-  [![SabihShah’s GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabihShah&theme=github_dark)](https://github.com/SabihShah)
+### 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabihShah&layout=compact&theme=tokyonight" height="160"/>
-</p>
+| ![Jahangir GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabihShah&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabihShah&layout=compact&theme=tokyonight) |
+|--|--|
+
 
 <br>
 
