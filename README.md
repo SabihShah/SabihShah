@@ -22,7 +22,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabih_Shah&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SabihShah&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabihShah&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
